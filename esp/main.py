@@ -2,6 +2,7 @@
 # Assignment compliant: only MQTT, unique team_id namespace, no HTTP/WebSocket
 # Author: M (your team)
 
+import utils.session
 import network
 import time
 import json
