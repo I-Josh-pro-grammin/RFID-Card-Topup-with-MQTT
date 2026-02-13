@@ -56,7 +56,7 @@ README.md → Project documentation
 
 The dashboard is hosted on:
 
-http://157.173.101.159:1883
+http://157.173.101.159:9240
 
 ---
 
