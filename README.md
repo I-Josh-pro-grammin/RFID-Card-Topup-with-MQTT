@@ -68,17 +68,6 @@ cd backend-api
 npm install
 node server.js
 
-### 2️⃣ Web Dashboard
-
-cd web-dashboard
-npm install
-npm start
-
-
-Then open:
-
-[http://157.173.101.159:9240]
-
 ### 3️⃣ ESP8266 Firmware
 
 - Open firmware in Arduino IDE
