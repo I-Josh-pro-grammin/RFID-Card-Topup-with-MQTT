@@ -77,7 +77,7 @@ npm start
 
 Then open:
 
-http://157.173.101.159:1883
+[http://157.173.101.159:9240]
 
 ### 3️⃣ ESP8266 Firmware
 
